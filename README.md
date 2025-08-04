@@ -1,6 +1,6 @@
 FastAPI User Management API
 A simple REST API built using FastAPI for managing users (Create, Read, Update, Delete).
-This project is designed as a beginner-friendly task suitable for practice or reporting in daily standups.
+This project is designed as a beginner-friendly task suitable for practice.
 
 Features
 Create User – Add a new user with name and email.
